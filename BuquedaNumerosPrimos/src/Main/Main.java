@@ -41,7 +41,7 @@ public class Main {
                     }
                 }
 
-            System.out.println("Se a encontrado " +contadorPrimos+" numeros primos");
+            System.out.println("Se a encontrado " +contadorPrimos+" numeros primos.");
             }
         }
     }
